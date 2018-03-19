@@ -1,0 +1,126 @@
+body {
+	background-color:#e7e8e9;
+}
+
+.header {
+	margin-top:0px;
+	width:100%;
+	height:90px;
+	background:black;
+	margin:0px;
+	position: relative;
+	
+}
+
+.button{
+  font-weight: 700;
+  border-radius: 10px;
+  padding:10px 40px 10px 40px;  
+  color: white;
+  text-decoration: none;
+  margin-top:20px;
+  margin-left:1700px;
+  position:absolute;
+  background: #42b6f4;
+  transition: 0.2s;
+} 
+
+a.button:hover { 
+  background: silver;
+}
+
+.footer,
+.middle4,
+.middle3,
+.middle2,
+.middle1 {
+	margin-left:20%;
+	margin-right:20%;
+	border:1px solid #e7e8e9; 
+	height:400px;
+	position: relative;	
+}
+
+.middle4,
+.middle3,
+.middle2 {
+	margin-top:-1px;
+	background-color:white;
+}
+
+.middle3 {
+	height:750px;	
+}
+
+.middle4 {
+	height:500px;	
+}
+
+.footer {
+	background-color:black;
+	height:200px;
+	position: relative;
+}
+
+h1 {
+	margin-left:975px;
+	margin-top:40px;
+	position: absolute;
+	color:white;
+	font-size:70px;
+}
+
+.cityscape {	
+	height:400px;
+	width:100%;
+}
+
+.middle2 p, 
+.middle3 p,
+.middle4 p {
+	text-align:center;
+	padding:20px;
+	font-size:30px;
+	color:gray;
+	text-decoration: none;
+	list-style:none;
+}
+
+a {  
+    color:black;
+	text-decoration: none;
+	list-style:none;
+}
+
+.cityscape2 {
+	border-radius: 10px;
+    margin-right:10px;
+    margin-left:20px;
+    float:left;
+}
+
+.cityscape3 {
+	margin-right:10px;
+    margin-left:20px;
+	border-radius: 10px;
+	float: right;
+	height:400px;
+	width:400px;
+}
+
+a.links {	
+	font-size:20px;
+	font-weight:700;
+	color:white;
+	text-decoration: none;
+} 
+
+ .links:hover {
+color:#42b6f4;
+}
+
+.footer > p {
+text-align:center;	
+}
+
+
